@@ -39,6 +39,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffer2S&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</div>
+
+<br>
+
 ## 🛠️ My Skills
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
@@ -141,7 +147,7 @@
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
     <!-- Email (Asegúrate de poner tu correo real aquí) -->
-    <a style="margin-left: 10px;" target="_blank" href="mailto:tu-correo@gmail.com">
+    <a style="margin-left: 10px;" target="_blank" href="mailto:jeffstalim111@gmail.com">
       <img src="https://img.icons8.com/doodle/40/000000/new-post--v1.png">
     </a>
   </div>
