@@ -1,198 +1,148 @@
+<div align="center">
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&text=Welcome&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
+</div>
 
-<h1 align="center">👋 Hi, I'm Jefferson Poaquiza</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeffer2S&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
+<h1 align="center"> 
+  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I'm Jefferson Poaquiza
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%236366F1&size=20&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;Backend+Developer;Software+Engineering+Student;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=%236366F1&size=22&center=true&vCenter=true&width=800&height=60&lines=Software+Engineering+Student+%40+UTA;Full+Stack+%26+Backend+Developer;Building+Scalable+Microservices;Linux+%26+Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Passionate about software development and building modern web applications.
-I specialize in developing scalable backend and frontend solutions using TypeScript, Angular, Java, C#, and modern web technologies.
+  <strong>Passionate about software architecture, robust backend solutions, and modern web applications.</strong><br>
+  I specialize in developing scalable systems using <b>Angular, .NET, TypeScript, and Docker</b>, with a strong focus on clean architecture, CQRS, and efficient database design.
 </p>
 
----
+<br>
 
-## 🚀 About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
-🎓 Software Engineering Student
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-💻 Full Stack Web Developer
+🎓 **Software Engineering Student** at Universidad Técnica de Ambato (UTA).
 
-⚙️ Experienced in developing business and administrative systems
+💻 **Full Stack Developer** specializing in enterprise-level systems and microservices.
 
-📚 Interested in Software Architecture, Backend Development, and Scalable Systems
+🏗️ **Architecture & Design:** Deeply interested in Hexagonal Architecture (Ports and Adapters) and CQRS.
 
-🌎 Based in Ecuador
+🐧 **Linux Enthusiast:** Daily driver of Debian Trixie (Testing) with GNOME/Hyprland window managers.
 
----
+🤖 **Automation Explorer:** Building workflows, integrating Telegram bots, and using AI orchestration tools like n8n and Ollama.
 
-## 🛠️ Tech Stack
+🌎 Based in Ambato, Ecuador.
 
-### 💻 Programming Languages
+<br>
 
-<p>
+## 🛠️ My Skills
+
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-### 🌐 Frontend Development
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> </picture> Frontend Development
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Databases
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Backend, Databases & Architecture
 
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white&color=EA4B71"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
----
-
-## 📂 Featured Projects
-
-### 🏥 Hospital Management System
-
-A healthcare management platform designed to manage clinical information, medical records, and healthcare processes.
-
-**Technologies:**
-- TypeScript
-- Web Development
-- Healthcare Information Management
-
-🔗 Repository:
-https://github.com/Jeffer2S/hospital_system
-
----
-
-### ⚰️ Cemetery Management System
-
-A complete cemetery administration platform built with separate frontend and backend architectures.
-
-**Technologies:**
-- TypeScript
-- Client-Server Architecture
-- Full Stack Development
-
-🔗 Backend:
-https://github.com/devjaes/cementery_back
-
-🔗 Frontend:
-https://github.com/devjaes/cementery_web
-
----
-
-### 🚌 Andina Bus Mobile Client
-
-A transportation-oriented application focused on route management and customer services.
-
-**Technologies:**
-- TypeScript
-- Mobile/Web Application Development
-
-🔗 Repository:
-https://github.com/Jeffer2S/andinaBusClienteMovil
-
----
-
-### 🔐 JWT Authentication System
-
-Implementation of authentication and authorization mechanisms using JSON Web Tokens (JWT).
-
-**Technologies:**
-- JavaScript
-- Web Security
-- Authentication & Authorization
-
-🔗 Repository:
-https://github.com/Jeffer2S/jwt
-
----
-
-### 🏥 Electronic Medical Records System
-
-A web-based application for managing patient records and clinical histories.
-
-**Technologies:**
-- TypeScript
-- Healthcare Systems
-- Data Management
-
-🔗 Repository:
-https://github.com/JaviFiallos/Historias-Clinicas
-
----
-
-## 🤝 Team Collaborations
-
-Projects developed in collaboration with other developers:
-
-- https://github.com/Leninner/life_insurance_front
-- https://github.com/JaviFiallos/here-front
-- https://github.com/Leninner/web-project
-
----
-
-## 📚 Technical Documentation & Learning Repositories
-
-- https://github.com/Jeffer2S/docs
-- https://github.com/elvis0007/documentacion_
-- https://github.com/Jeffer2S/yml
-- https://github.com/Jeffer2S/m-viles-
-
----
-
-## 📊 GitHub Statistics
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> Work Environment
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffer2S&show_icons=true&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian_Trixie-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+<br> 
+
+---
+
+## 📂 Featured Projects & Architecture
+
+<div align="center">
+  
+  <!-- Proyecto 1: Tesis -->
+  <img src="https://img.shields.io/badge/🏭_Ambacar%2FCiauto_Inventory_System-2B2D42?style=for-the-badge" alt="Ambacar System"/><br>
+  <img src="https://img.shields.io/badge/Status-Current_Thesis_Project-FF3366?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices_%7C_RFID_%7C_Traceability-00C9B1?style=flat-square"/><br>
+  <em>A highly scalable web and mobile inventory system utilizing RFID technology for real-time vehicle traceability. Designed strictly with Identity, Production, and Inventory microservices to ensure modularity.</em><br>
+  <img src="https://img.shields.io/badge/.NET_8%2F10-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <br><br><br>
+
+  <!-- Proyecto 2: Andina Bus -->
+  <img src="https://img.shields.io/badge/🚌_Andina_Bus_Platform-1E90FF?style=for-the-badge" alt="Andina Bus"/><br>
+  <img src="https://img.shields.io/badge/Domain-Mobility_%26_Transportation-FF9900?style=flat-square"/><br>
+  <em>A comprehensive mobility system designed for inter-provincial bus ticket management, route optimization, and client services.</em><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile/Web-Dev-4CAF50?style=flat-square"/><br>
+  <a href="https://github.com/Jeffer2S/andinaBusClienteMovil">🔗 View Repository</a>
+  <br><br><br>
+
+  <!-- Proyecto 3: Hospital -->
+  <img src="https://img.shields.io/badge/🏥_Hospital_Management_System-00B4D8?style=for-the-badge" alt="Hospital System"/><br>
+  <img src="https://img.shields.io/badge/Context-Academic_Software_Engineering_Project-0077B6?style=flat-square"/><br>
+  <em>An academic software development project focused on building a secure platform to handle clinical data, patient flows, and internal hospital processes.</em><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/><br>
+  <a href="https://github.com/Jeffer2S/hospital_system">🔗 View Repository</a>
+  <br><br><br>
+
+  <!-- Proyecto 4: JWT -->
+  <img src="https://img.shields.io/badge/🔐_JWT_Authentication_System-FFB703?style=for-the-badge" alt="JWT Auth"/><br>
+  <img src="https://img.shields.io/badge/Domain-Security_%26_Auth-FB8500?style=flat-square"/><br>
+  <em>Implementation of secure authentication, role-based access control (RBAC), and authorization mechanisms using JSON Web Tokens.</em><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Security-Locked-red?style=flat-square"/><br>
+  <a href="https://github.com/Jeffer2S/jwt">🔗 View Repository</a>
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffer2S&layout=compact&theme=tokyonight" />
+  <div align="center" class="icons-social" style="margin-left: 10px;">
+    <!-- LinkedIn (Asegúrate de poner tu enlace real aquí) -->
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL/">
+      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    </a>
+    <!-- GitHub -->
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Jeffer2S">
+      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+    </a>
+    <!-- Email (Asegúrate de poner tu correo real aquí) -->
+    <a style="margin-left: 10px;" target="_blank" href="mailto:tu-correo@gmail.com">
+      <img src="https://img.icons8.com/doodle/40/000000/new-post--v1.png">
+    </a>
+  </div>
 </p>
-
----
-
-## 🎯 Current Focus
-
-I am continuously improving my skills in:
-
-- Backend Development
-- Software Architecture
-- Microservices
-- Cloud Computing
-- Web Security
-- Full Stack Development
-- DevOps Practices
-
----
-
-## 📫 Connect With Me
-
-GitHub:
-https://github.com/Jeffer2S
-
----
-
-## 💡 Professional Philosophy
-
-> "Great software is built through continuous learning, clean architecture, and a commitment to solving real-world problems."
